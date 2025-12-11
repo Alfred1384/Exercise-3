@@ -10,5 +10,5 @@ S1 = (x-2)^2 + (y-4)^2 - R^2;
 S2 = x/2 + 1 - y;
 [xR, yR] = solve(S1, S2) 
   B)
-  ![Uploading Exercise1BB.jpg…]()
+  ![Intersection of Line and Circle](assets/intersection_plot.jpeg)
 
