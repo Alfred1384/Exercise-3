@@ -1,4 +1,4 @@
-# Exercise1A.m ✨
+# ExerciseA.m ✨
 
 This MATLAB script uses the **Symbolic Math Toolbox** to compute the intersection points between a circle and a line.
 
