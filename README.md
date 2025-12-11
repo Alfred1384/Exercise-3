@@ -5,10 +5,16 @@ This MATLAB script uses the **Symbolic Math Toolbox** to compute the intersectio
 ## 📐 Mathematical Model
 ## 💻 Output
 A)
- syms x y R
-S1 = (x-2)^2 + (y-4)^2 - R^2;
-S2 = x/2 + 1 - y;
-[xR, yR] = solve(S1, S2) 
+ xR =
+ 
+14/5 - ((4*R^2)/5 - 64/25)^(1/2)
+((4*R^2)/5 - 64/25)^(1/2) + 14/5
+ 
+ 
+yR =
+ 
+12/5 - ((4*R^2)/5 - 64/25)^(1/2)/2
+((4*R^2)/5 - 64/25)^(1/2)/2 + 12/5
 _______________________________
  B)
   
