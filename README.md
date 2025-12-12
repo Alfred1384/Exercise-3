@@ -24,7 +24,8 @@ _______________________________
 "Maximum Power Calculation for Muscle Model (k = 0.25)"
 # Exercise2.m ✨
 ## 💻 Output
-A)![untitled3a](https://github.com/user-attachments/assets/1255817c-3ebc-4ab0-b438-1425f9172e8a)
+A)
+![untitled3a](https://github.com/user-attachments/assets/1255817c-3ebc-4ab0-b438-1425f9172e8a)
 
 B)
 u_max =
